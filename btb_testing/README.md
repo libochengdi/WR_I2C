@@ -2,7 +2,10 @@
 
 A program to test the new GPIO expander and multiplexer fix on the Battery Trace boards using a TM4C launchpad.
 
+## Below is GitLab's auto-generated README, take a read!
+
 ## Getting started
+
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
